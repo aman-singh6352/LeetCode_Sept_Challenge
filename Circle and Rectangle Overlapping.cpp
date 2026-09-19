@@ -11,7 +11,7 @@ class Solution {
         }
     };
 
-/* ------------------------------------- JAVA CODE ----------------------------*/
+/* ---------------------------------------- JAVA CODE --------------------------------*/
 class Solution {
     public boolean checkOverlap(int radius, int xCenter, int yCenter, int x1, int y1, int x2, int y2) {
         int nx, ny;
